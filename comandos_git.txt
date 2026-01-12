@@ -4,6 +4,7 @@ git add nome_arquivo -> adciona arquivo para ser commitado
 git commit -m "msg"  -> faz commit do que estava para ser commitado
 git log              -> mostra todos o histórico de commit
 
+
 ##Fluxo de TRABALHO
 1. criar diretório (pasta) do projeto
 2. iniciar git dentro do diretório
