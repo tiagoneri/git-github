@@ -1,2 +1,1 @@
-Meu Deus, que doidera esse curso!
-
+Aprendendo a resolver conflitos antes do pull request
