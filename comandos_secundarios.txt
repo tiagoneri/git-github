@@ -1,3 +1,1 @@
-Este arquivo contém informações adicionais para git
-
-testando comandos
+Arquivo feito para teste de comandos!
